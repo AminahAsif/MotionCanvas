@@ -1,5 +1,6 @@
 # MotionCanvas: Touchless UI & Computer Vision Drawing Engine
-
+# Joint Project Notice:
+This project was conceived, designed, and developed collaboratively by **Amina Asif** and **Usman Mallana** as an equal partnership. Both contributors participated in the system architecture, gesture-logic design, and implementation. This repository is a fork maintained by Amina Asif for continued development and academic documentation purposes.
 ## System Objective
 MotionCanvas is a real-time, touchless drawing application that leverages edge AI for spatial tracking. It translates complex 3D hand kinematics into a fluid 2D digital canvas. By engineering a custom gesture-driven state machine, the system allows users to draw, erase, manipulate geometric shapes, and navigate virtual menus entirely through mid-air hand movements—requiring no physical peripherals.
 
@@ -63,3 +64,11 @@ python MotionCanvas.py
 * **Save Canvas:** Navigate to the save icon in the virtual menu to export the canvas as a high-resolution `.png`.
 
 ---
+**Authors & Contributions**
+
+This project is the result of a collaborative effort:
+
+Amina Asif 
+Usman Mallana 
+
+Both contributors jointly designed the gesture-recognition logic, state-machine architecture, and virtual UI system presented in this repository.
