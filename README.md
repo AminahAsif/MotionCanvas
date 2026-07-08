@@ -68,7 +68,6 @@ python MotionCanvas.py
 
 This project is the result of a collaborative effort:
 
-Amina Asif 
-Usman Mallana 
+Amina Asif and Usman Mallana 
 
 Both contributors jointly designed the gesture-recognition logic, state-machine architecture, and virtual UI system presented in this repository.
